@@ -1,0 +1,13 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+26968,United States,1995,male,75+ years,2580,5346600,48.25,United States1995,0.8759999999999999,"7,664,060,000,000",31518,G.I. Generation
+26969,United States,1995,male,25-34 years,5234,20432000,25.62,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Generation X
+26970,United States,1995,male,55-74 years,4607,18386200,25.06,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Silent
+26971,United States,1995,male,35-54 years,8545,36243300,23.58,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Boomers
+26972,United States,1995,male,15-24 years,4132,18352000,22.52,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Generation X
+26973,United States,1995,female,35-54 years,2454,37303100,6.58,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Boomers
+26974,United States,1995,female,75+ years,516,9426600,5.47,United States1995,0.8759999999999999,"7,664,060,000,000",31518,G.I. Generation
+26975,United States,1995,female,55-74 years,1157,21504100,5.38,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Silent
+26976,United States,1995,female,25-34 years,1058,20441200,5.18,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Generation X
+26977,United States,1995,female,15-24 years,652,17594600,3.71,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Generation X
+26978,United States,1995,male,5-14 years,260,19528500,1.33,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Millenials
+26979,United States,1995,female,5-14 years,77,18606000,0.41,United States1995,0.8759999999999999,"7,664,060,000,000",31518,Millenials

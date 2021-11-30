@@ -1,0 +1,13 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+27088,United States,2005,male,75+ years,2610,6883241,37.92,United States2005,0.897,"13,093,726,000,000",47423,Silent
+27089,United States,2005,male,35-54 years,10332,42835394,24.12,United States2005,0.897,"13,093,726,000,000",47423,Boomers
+27090,United States,2005,male,55-74 years,5190,23156114,22.41,United States2005,0.897,"13,093,726,000,000",47423,Silent
+27091,United States,2005,male,25-34 years,4066,20421260,19.91,United States2005,0.897,"13,093,726,000,000",47423,Generation X
+27092,United States,2005,male,15-24 years,3498,21647159,16.16,United States2005,0.897,"13,093,726,000,000",47423,Millenials
+27093,United States,2005,female,35-54 years,3209,43509335,7.38,United States2005,0.897,"13,093,726,000,000",47423,Boomers
+27094,United States,2005,female,55-74 years,1364,25839240,5.28,United States2005,0.897,"13,093,726,000,000",47423,Silent
+27095,United States,2005,female,25-34 years,924,19721652,4.69,United States2005,0.897,"13,093,726,000,000",47423,Generation X
+27096,United States,2005,female,75+ years,450,11267059,3.99,United States2005,0.897,"13,093,726,000,000",47423,Silent
+27097,United States,2005,female,15-24 years,714,20429690,3.49,United States2005,0.897,"13,093,726,000,000",47423,Millenials
+27098,United States,2005,male,5-14 years,204,20675232,0.99,United States2005,0.897,"13,093,726,000,000",47423,Millenials
+27099,United States,2005,female,5-14 years,68,19721304,0.34,United States2005,0.897,"13,093,726,000,000",47423,Millenials

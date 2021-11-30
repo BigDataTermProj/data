@@ -1,0 +1,13 @@
+,country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+26848,United States,1985,male,75+ years,2177,4064000,53.57,United States1985,0.841,"4,346,734,000,000",19693,G.I. Generation
+26849,United States,1985,male,55-74 years,5302,17971000,29.5,United States1985,0.841,"4,346,734,000,000",19693,G.I. Generation
+26850,United States,1985,male,25-34 years,5134,20986000,24.46,United States1985,0.841,"4,346,734,000,000",19693,Boomers
+26851,United States,1985,male,35-54 years,6053,26589000,22.77,United States1985,0.841,"4,346,734,000,000",19693,Silent
+26852,United States,1985,male,15-24 years,4267,19962000,21.38,United States1985,0.841,"4,346,734,000,000",19693,Generation X
+26853,United States,1985,female,35-54 years,2105,27763000,7.58,United States1985,0.841,"4,346,734,000,000",19693,Silent
+26854,United States,1985,female,55-74 years,1568,21366000,7.34,United States1985,0.841,"4,346,734,000,000",19693,G.I. Generation
+26855,United States,1985,female,75+ years,466,7469000,6.24,United States1985,0.841,"4,346,734,000,000",19693,G.I. Generation
+26856,United States,1985,female,25-34 years,1242,21041000,5.9,United States1985,0.841,"4,346,734,000,000",19693,Boomers
+26857,United States,1985,female,15-24 years,854,19589000,4.36,United States1985,0.841,"4,346,734,000,000",19693,Generation X
+26858,United States,1985,male,5-14 years,205,17370000,1.18,United States1985,0.841,"4,346,734,000,000",19693,Generation X
+26859,United States,1985,female,5-14 years,73,16553000,0.44,United States1985,0.841,"4,346,734,000,000",19693,Generation X
